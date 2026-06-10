@@ -1,0 +1,24 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "home": "Франция",
+      "away": "Германия",
+      "date": "15.06.2026",
+      "group": "A",
+      "homeScore": null,
+      "awayScore": null
+    },
+    {
+      "id": 2,
+      "home": "Бразилия",
+      "away": "Аргентина",
+      "date": "16.06.2026",
+      "group": "B",
+      "homeScore": null,
+      "awayScore": null
+    }
+  ],
+  "predictions": {},
+  "users": {}
+}
